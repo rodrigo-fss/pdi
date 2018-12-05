@@ -1,0 +1,55 @@
+x,y of centroid: (44,641)
+area: 1499.0
+perimeter: 162.204976678
+width: 32.0
+height: 51.0
+corners:
+[ 29 667] [ 29 616] [ 61 616] [ 61 667] 
+
+x,y of centroid: (81,639)
+area: 1497.5
+perimeter: 161.712438703
+width: 31.0568008423
+height: 51.605342865
+corners:
+[ 67 666] [ 65 614] [ 96 613] [ 98 665] 
+
+x,y of centroid: (118,638)
+area: 1521.5
+perimeter: 162.240090013
+width: 30.9999961853
+height: 51.9999923706
+corners:
+[103 663] [103 611] [134 611] [134 663] 
+
+x,y of centroid: (155,636)
+area: 1511.0
+perimeter: 158.683289886
+width: 31.0435810089
+height: 50.8970336914
+corners:
+[141 662] [139 611] [170 610] [172 661] 
+
+x,y of centroid: (209,633)
+area: 2926.5
+perimeter: 322.540129781
+width: 67.0
+height: 52.0
+corners:
+[176 660] [176 608] [243 608] [243 660] 
+
+x,y of centroid: (264,631)
+area: 1416.0
+perimeter: 155.742891669
+width: 30.0
+height: 50.0
+corners:
+[249 656] [249 606] [279 606] [279 656] 
+
+x,y of centroid: (299,629)
+area: 1427.0
+perimeter: 156.396249175
+width: 30.0
+height: 51.0
+corners:
+[285 655] [285 604] [315 604] [315 655] 
